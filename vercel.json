@@ -21,7 +21,7 @@
       "statusCode": 301
     },
     {
-      "source": "/2023/setup-miniprogram/*",
+      "source": "/2023/setup-miniprogram/(.*)",
       "destination": "/2023/setup-miniprogram/index.html",
       "statusCode": 200
     },
