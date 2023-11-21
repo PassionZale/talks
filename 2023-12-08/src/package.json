@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build --base /2023/setup-miniprogram/ --out ../../dist/2023/setup-miniprogram",
+    "export": "slidev export --per-slide --output ../2023-12-08-setup-miniprogram.pdf"
+  }
+}
