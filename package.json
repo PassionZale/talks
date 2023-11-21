@@ -2,17 +2,23 @@
   "type": "module",
   "private": true,
   "description": "Slides &amp; code for my talks",
+  "author": "Lei Zhang",
+  "license": "MIT",
+  "homepage": "https://github.com/PassionZale/talks#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PassionZale/talks.git"
   },
-  "keywords": [],
-  "author": "Lei Zhang",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PassionZale/talks/issues"
   },
-  "homepage": "https://github.com/PassionZale/talks#readme",
+  "keywords": [],
+  "scripts": {
+    "build": "rimraf dist && pnpm -r run build",
+    "dev": "esno scripts/picker.ts dev --open",
+    "lint": "eslint . --fix",
+    "update": "esno scripts/redirects.ts"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^2.0.0",
     "@iconify/json": "^2.2.144",

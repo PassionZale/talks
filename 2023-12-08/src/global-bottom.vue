@@ -7,9 +7,11 @@
         &nbsp; | &nbsp; Lei Zhang @ Dec. 08, 2023
       </div>
 
-      <div class="flex-grow">&nbsp;</div>
+      <div class="flex-grow">
+&nbsp;
+      </div>
 
-      <img src="/logo.png" style="height: 40px" />
+      <img src="/logo.png" style="height: 40px">
     </div>
   </footer>
 </template>
