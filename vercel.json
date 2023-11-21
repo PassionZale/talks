@@ -1,4 +1,7 @@
 {
+  "github": {
+    "enabled": false
+  },
   "redirects": [
     {
       "source": "/2023/setup-miniprogram/pdf",
