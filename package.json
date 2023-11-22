@@ -17,7 +17,8 @@
     "build": "rimraf dist && pnpm -r run build",
     "dev": "esno scripts/picker.ts dev --open",
     "lint": "eslint . --fix",
-    "redirects": "esno scripts/redirects.ts"
+    "redirects": "esno scripts/redirects.ts",
+    "release": "vercel --prod"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.0.0",
