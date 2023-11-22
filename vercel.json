@@ -2,6 +2,8 @@
   "github": {
     "enabled": false
   },
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist",
   "redirects": [
     {
       "source": "/2023/setup-miniprogram/pdf",
@@ -10,7 +12,7 @@
     },
     {
       "source": "/2023-12-08/pdf",
-      "destination": "ttps://github.com/passionzale/talks/blob/main/2023-12-08/2023-12-08-setup-miniprogram.pdf?raw=true",
+      "destination": "https://github.com/passionzale/talks/blob/main/2023-12-08/2023-12-08-setup-miniprogram.pdf?raw=true",
       "statusCode": 302
     },
     {
