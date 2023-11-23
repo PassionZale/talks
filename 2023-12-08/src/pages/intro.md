@@ -19,8 +19,8 @@ layout: "intro"
 
   <ri-user-3-line class="opacity-50 m-auto text-xl" />
 
-  <div><a href="https://lovchun.com" target="_blank">lovchun.com</a></div>
+  <div><a href="https://www.lovchun.com" target="_blank">lovchun.com</a></div>
 
 </div>
 
-<!-- <img class="absolute top-0 right-0 w-30 mt-20 mr-20 rounded-full" src="https://lovchun.com/static/images/avatar.webp" /> -->
+<!-- <img class="absolute top-0 right-0 w-30 mt-20 mr-20 rounded-full" src="https://www.lovchun.com/static/images/avatar.webp" /> -->
