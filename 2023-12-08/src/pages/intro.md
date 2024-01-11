@@ -15,7 +15,7 @@ layout: "intro"
 
   <ri-github-line class="opacity-50 m-auto text-xl" />
 
-  <div><a href="https://github.com/passionzale" target="_blank">@passionzale</a></div>
+  <div><a href="https://github.com/PassionZale" target="_blank">@PassionZale</a></div>
 
   <ri-user-3-line class="opacity-50 m-auto text-xl" />
 
@@ -23,4 +23,4 @@ layout: "intro"
 
 </div>
 
-<!-- <img class="absolute top-0 right-0 w-30 mt-20 mr-20 rounded-full" src="https://www.lovchun.com/static/images/avatar.webp" /> -->
+<!-- <img class="absolute top-0 right-0 w-30 mt-20 mr-20 rounded-full" src="https://www.lovchun.com/images/avatar.webp" /> -->
