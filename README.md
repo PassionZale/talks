@@ -8,4 +8,4 @@ Slides &amp; code for my talks, using [Slidev](https://sli.dev).
 
 ##### 2024
 
-- [happy coding for 10 years][./2024-03-10] - 生活 [PDF](https://talks.lovchun.com/2024/happy-coding-for-10-years/pdf) | [Preview](https://talks.lovchun.com/2024/happy-coding-for-10-years)
+- [happy coding for 10 years](./2024-03-10) - 生活 [PDF](https://talks.lovchun.com/2024/happy-coding-for-10-years/pdf) | [Preview](https://talks.lovchun.com/2024/happy-coding-for-10-years)
