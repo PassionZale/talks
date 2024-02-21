@@ -31,6 +31,31 @@
       "statusCode": 200
     },
     {
+      "source": "/2024/happy-coding-for-10-years/pdf",
+      "destination": "https://github.com/passionzale/talks/blob/main/2024-03-10/2024-03-10-happy-coding-for-10-years.pdf?raw=true",
+      "statusCode": 302
+    },
+    {
+      "source": "/2024-03-10/pdf",
+      "destination": "https://github.com/passionzale/talks/blob/main/2024-03-10/2024-03-10-happy-coding-for-10-years.pdf?raw=true",
+      "statusCode": 302
+    },
+    {
+      "source": "/2024/happy-coding-for-10-years/src",
+      "destination": "https://github.com/passionzale/talks/tree/main/2024-03-10",
+      "statusCode": 302
+    },
+    {
+      "source": "2024-03-10",
+      "destination": "https://talks.lovchun.com/2024/happy-coding-for-10-years/",
+      "statusCode": 301
+    },
+    {
+      "source": "/2024/happy-coding-for-10-years/(.*)",
+      "destination": "/2024/happy-coding-for-10-years/index.html",
+      "statusCode": 200
+    },
+    {
       "source": "/",
       "destination": "https://github.com/passionzale/talks",
       "statusCode": 302
