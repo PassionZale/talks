@@ -27,3 +27,7 @@ mdc: true
     <div class="text-sm opacity-50">Mar. 10, 2024</div>
   </div>
 </div>
+
+---
+src: '../../reuse/thanks.md'
+---
