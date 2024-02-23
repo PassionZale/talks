@@ -15,12 +15,12 @@ mdc: true
 
 十年前我写下了第一行代码，我的代码没有改变这个世界，但是编程改变了我的生活
 
-- 2014：HelloWorld
-- 2015：开始深漂
-- 2016 ~ 2018：开始各种折腾，租服务器、搭博客
-- 2019：专职前端
-- 2020 ~ 2013：不断的折腾，接触了更多好玩的技术栈
-- 2024：~~33/35~~
+- 2014：👋 HelloWorld
+- 2015：👨‍💻 Shen Zhen
+- 2016 ~ 2018：🎉 LNMP
+- 2019：<logos-nodejs-icon /> <logos-npm-icon /> <logos-webpack /> <logos-vue />
+- 2020 ~ 2013：<logos-docker-icon /> <logos-typescript-icon-round /> <logos-react /> <logos-nextjs-icon />  <logos-vercel-icon /> <logos-astro-icon /> <logos-vitejs /> <logos-pnpm />
+- 2024：🫢 33/35
 
 <div class="abs-bl mx-14 my-12 flex items-center">
   <img src="https://www.lovchun.com/images/avatar.webp" class="rounded-full h-8">
