@@ -13,13 +13,13 @@ mdc: true
 
 # Happy Coding For 10 Years
 
-十年前我写下了第一行代码，我的代码没有改变这个世界，但是编程改变了我的生活
+十年前我写下了第一行代码，我的代码没有改变这个世界，但是编程改变了我的生活。
 
 - 2014：👋 HelloWorld
 - 2015：👨‍💻 Shen Zhen
 - 2016 ~ 2018：🎉 LNMP
 - 2019：<logos-nodejs-icon /> <logos-npm-icon /> <logos-webpack /> <logos-vue />
-- 2020 ~ 2013：<logos-docker-icon /> <logos-typescript-icon-round /> <logos-react /> <logos-nextjs-icon />  <logos-vercel-icon /> <logos-astro-icon /> <logos-vitejs /> <logos-pnpm />
+- 2020 ~ 2013：<logos-docker-icon /> <logos-typescript-icon-round /> <logos-react /> <logos-nextjs-icon />  <logos-vercel-icon /> <logos-astro-icon /> <logos-vitejs /> <logos-tailwindcss-icon />
 - 2024：🫢 33/35
 
 <div class="abs-bl mx-14 my-12 flex items-center">
