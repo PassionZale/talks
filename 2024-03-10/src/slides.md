@@ -19,7 +19,7 @@ mdc: true
 - 2015：👨‍💻 Shen Zhen
 - 2016 ~ 2018：🎉 LNMP
 - 2019：<logos-nodejs-icon /> <logos-npm-icon /> <logos-webpack /> <logos-vue />
-- 2020 ~ 2013：<logos-docker-icon /> <logos-typescript-icon-round /> <logos-react /> <logos-nextjs-icon />  <logos-vercel-icon /> <logos-astro-icon /> <logos-vitejs /> <logos-tailwindcss-icon />
+- 2020 ~ 2013：<logos-docker-icon /> <logos-typescript-icon-round /> <logos-react /> <logos-nextjs-icon />  <logos-vercel-icon /> <Slidev /> <logos-astro-icon /> <logos-vitejs /> <logos-tailwindcss-icon />
 - 2024：🫢 33/35
 
 <div class="abs-bl mx-14 my-12 flex items-center">
@@ -71,7 +71,7 @@ src: './pages/2019.md'
 ---
 
 ---
-layout: 'center'
+layout: 'center' 
 ---
 
 # `2020 ~ 2023`

@@ -3,6 +3,10 @@ layout: center
 class: 'text-center pb-5'
 ---
 
-# 谢谢！
+# 🫶 Thanks！
 
-幻灯片可在 [@passionzale](https://github.com/passionzale/talks) 查看与下载
+<div>
+
+幻灯片可在 [<logos-github-icon /> PassionZale/talks](https://github.com/PassionZale/talks) 查看与下载
+
+</div>
