@@ -50,20 +50,20 @@ const redirects = bases.flatMap(({ base, pdfFile, dir }) => {
   if (pdfFile) {
     parts.push({
       source: `${base}pdf`,
-      destination: `https://github.com/passionzale/talks/blob/main/${dir}/${pdfFile}?raw=true`,
+      destination: `https://github.com/PassionZale/talks/blob/main/${dir}/${pdfFile}?raw=true`,
       statusCode: 302,
     });
 
     parts.push({
       source: `/${dir}/pdf`,
-      destination: `https://github.com/passionzale/talks/blob/main/${dir}/${pdfFile}?raw=true`,
+      destination: `https://github.com/PassionZale/talks/blob/main/${dir}/${pdfFile}?raw=true`,
       statusCode: 302,
     });
   }
 
   parts.push({
     source: `${base}src`,
-    destination: `https://github.com/passionzale/talks/tree/main/${dir}`,
+    destination: `https://github.com/PassionZale/talks/tree/main/${dir}`,
     statusCode: 302,
   });
 
@@ -93,7 +93,7 @@ const content = {
     ...[
       {
         source: "/",
-        destination: "https://github.com/passionzale/talks",
+        destination: "https://github.com/PassionZale/talks",
         statusCode: 302,
       },
     ],
