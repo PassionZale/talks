@@ -7,17 +7,17 @@
   "redirects": [
     {
       "source": "/2023/setup-miniprogram/pdf",
-      "destination": "https://github.com/passionzale/talks/blob/main/2023-12-08/2023-12-08-setup-miniprogram.pdf?raw=true",
+      "destination": "https://github.com/PassionZale/talks/blob/main/2023-12-08/2023-12-08-setup-miniprogram.pdf?raw=true",
       "statusCode": 302
     },
     {
       "source": "/2023-12-08/pdf",
-      "destination": "https://github.com/passionzale/talks/blob/main/2023-12-08/2023-12-08-setup-miniprogram.pdf?raw=true",
+      "destination": "https://github.com/PassionZale/talks/blob/main/2023-12-08/2023-12-08-setup-miniprogram.pdf?raw=true",
       "statusCode": 302
     },
     {
       "source": "/2023/setup-miniprogram/src",
-      "destination": "https://github.com/passionzale/talks/tree/main/2023-12-08",
+      "destination": "https://github.com/PassionZale/talks/tree/main/2023-12-08",
       "statusCode": 302
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "source": "/2024/happy-coding-for-10-years/pdf",
-      "destination": "https://github.com/passionzale/talks/blob/main/2024-03-10/2024-03-10-happy-coding-for-10-years.pdf?raw=true",
+      "destination": "https://github.com/PassionZale/talks/blob/main/2024-03-10/2024-03-10-happy-coding-for-10-years.pdf?raw=true",
       "statusCode": 302
     },
     {
       "source": "/2024-03-10/pdf",
-      "destination": "https://github.com/passionzale/talks/blob/main/2024-03-10/2024-03-10-happy-coding-for-10-years.pdf?raw=true",
+      "destination": "https://github.com/PassionZale/talks/blob/main/2024-03-10/2024-03-10-happy-coding-for-10-years.pdf?raw=true",
       "statusCode": 302
     },
     {
       "source": "/2024/happy-coding-for-10-years/src",
-      "destination": "https://github.com/passionzale/talks/tree/main/2024-03-10",
+      "destination": "https://github.com/PassionZale/talks/tree/main/2024-03-10",
       "statusCode": 302
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "source": "/",
-      "destination": "https://github.com/passionzale/talks",
+      "destination": "https://github.com/PassionZale/talks",
       "statusCode": 302
     }
   ]
