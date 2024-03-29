@@ -23,4 +23,4 @@ layout: "intro"
 
 </div>
 
-<!-- <img class="absolute top-0 right-0 w-30 mt-20 mr-20 rounded-full" src="https://www.lovchun.com/images/avatar.webp" /> -->
+<!-- <img class="absolute top-0 right-0 w-30 mt-20 mr-20 rounded-full" src="https://www.lovchun.com/images/avatar.jpg" /> -->
