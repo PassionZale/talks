@@ -28,9 +28,6 @@ mdc: true
   </div>
 </div>
 
----
-src: './pages/intro.md'
----
 
 ---
 layout: "center"
