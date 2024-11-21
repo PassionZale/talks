@@ -64,6 +64,8 @@ importers:
 
   2024-03-10/src: {}
 
+  2024-11-21/src: {}
+
 packages:
 
   '@aashutoshrathi/word-wrap@1.2.6':

@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build --base /2024/lowcode-start-kit/ --out ../../dist/2024/lowcode-start-kit",
+    "export": "slidev export --per-slide --output ../2024-11-21-lowcode-start-kit.pdf"
+  }
+}
