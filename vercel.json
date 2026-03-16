@@ -56,6 +56,31 @@
       "statusCode": 200
     },
     {
+      "source": "/2026/claude-code-best-tips/pdf",
+      "destination": "https://github.com/PassionZale/talks/blob/main/2026-03-12/2026-03-12-claude-code-best-tips.pdf?raw=true",
+      "statusCode": 302
+    },
+    {
+      "source": "/2026-03-12/pdf",
+      "destination": "https://github.com/PassionZale/talks/blob/main/2026-03-12/2026-03-12-claude-code-best-tips.pdf?raw=true",
+      "statusCode": 302
+    },
+    {
+      "source": "/2026/claude-code-best-tips/src",
+      "destination": "https://github.com/PassionZale/talks/tree/main/2026-03-12",
+      "statusCode": 302
+    },
+    {
+      "source": "2026-03-12",
+      "destination": "https://talks.lovchun.com/2026/claude-code-best-tips/",
+      "statusCode": 301
+    },
+    {
+      "source": "/2026/claude-code-best-tips/(.*)",
+      "destination": "/2026/claude-code-best-tips/index.html",
+      "statusCode": 200
+    },
+    {
       "source": "/",
       "destination": "https://github.com/PassionZale/talks",
       "statusCode": 302
