@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "slidev --port 3030"
+    "dev": "slidev",
+    "build": "slidev build --base /2026/claude-code-best-tips/ --out ../../dist/2026/claude-code-best-tips",
+    "export": "slidev export --per-slide --output ../2026-03-12-claude-code-best-tips.pdf"
   }
 }
