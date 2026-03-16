@@ -16,4 +16,4 @@ Slides &amp; code for my talks, using [Slidev](https://sli.dev).
 
 ##### 2026
 
-- [Claude Code Best Tips](./2026-03-12) - AI
+- [Claude Code Best Tips](./2026-03-12) - LLMs [PDF](https://talks.lovchun.com/2026/claude-code-best-tips/pdf) | [Preview](https://talks.lovchun.com/2026/claude-code-best-tips)
